@@ -8,5 +8,10 @@
             "type": "shell",
             "command": "pipenv shell",
         },
+        {
+          "label": "runserver",
+          "type": "shell",
+          "command": "pipenv run start",
+        }
     ]
 }
